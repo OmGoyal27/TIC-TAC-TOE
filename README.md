@@ -4,7 +4,7 @@ I am not using ChatGPT or Google for any help of any sort and completely making 
 I want it to be completely defeat-proof, it could get a draw.
 
 # Concept
-    sStarting date: 10-9-2024, 10:24am
+    Starting date: 10-9-2024, 10:24am
     
     Finishing date: 10-9-2024, 11:13pm
 
